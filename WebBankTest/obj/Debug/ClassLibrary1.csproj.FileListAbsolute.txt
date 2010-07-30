@@ -1,9 +1,0 @@
-C:\Users\bscharla\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\bscharla\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-C:\Users\bscharla\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
-C:\Users\bscharla\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.dll
-C:\Users\bscharla\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.xml
-C:\Users\bscharla\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-C:\Users\bscharla\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
-C:\Users\bscharla\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\WebBank.dll
-C:\Users\bscharla\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\WebBank.pdb
