@@ -1,0 +1,9 @@
+C:\Users\bscharla\Documents\Visual Studio 2010\Projects\WebBankTest\WebBankTest\bin\Debug\WebBankTest.dll
+C:\Users\bscharla\Documents\Visual Studio 2010\Projects\WebBankTest\WebBankTest\bin\Debug\WebBankTest.pdb
+C:\Users\bscharla\Documents\Visual Studio 2010\Projects\WebBankTest\WebBankTest\bin\Debug\nunit.framework.dll
+C:\Users\bscharla\Documents\Visual Studio 2010\Projects\WebBankTest\WebBankTest\bin\Debug\WebBank.dll
+C:\Users\bscharla\Documents\Visual Studio 2010\Projects\WebBankTest\WebBankTest\bin\Debug\nunit.framework.xml
+C:\Users\bscharla\Documents\Visual Studio 2010\Projects\WebBankTest\WebBankTest\bin\Debug\WebBank.pdb
+C:\Users\bscharla\Documents\Visual Studio 2010\Projects\WebBankTest\WebBankTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bscharla\Documents\Visual Studio 2010\Projects\WebBankTest\WebBankTest\obj\Debug\WebBankTest.dll
+C:\Users\bscharla\Documents\Visual Studio 2010\Projects\WebBankTest\WebBankTest\obj\Debug\WebBankTest.pdb
